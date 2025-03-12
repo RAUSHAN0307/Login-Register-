@@ -15,18 +15,4 @@ JSP (JavaServer Pages)
 MySQL for database
 HTML/CSS for frontend
 Tomcat as servlet container (recommended)
-📁 Project Structure
-bash
-Copy
-Edit
-/your-project
-│
-├── login.html          # Login page
-├── signup.jsp          # Sign-up page
-├── Welcome.jsp         # Welcome page after successful login
-│
-├── login.java          # Login servlet
-├── signup.java         # Signup servlet
-│
-└── /WEB-INF
-    └── web.xml         # (If used) Servlet configuration
+
